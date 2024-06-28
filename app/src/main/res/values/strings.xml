@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Week_3_Challenge_3</string>
+    <string name="results">RESULTS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="for_sale">For Sale</string>
+</resources>
